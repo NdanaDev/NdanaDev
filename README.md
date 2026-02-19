@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3U9Z1YH.png" alt="NdanaDev Banner" width="100%">
+  
 </p>
 
 # 👋 Hi, I'm **Ephraim — NdanaDev**
